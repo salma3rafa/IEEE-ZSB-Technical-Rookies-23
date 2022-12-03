@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\salma arafa\source\repos\prob 4.1\prob 4.1\Source.cpp(5,12): warning C4101: 'counter': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\salma arafa\source\repos\prob 4.1\Debug\prob 4.1.exe for writing
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe" exited with code 1168.

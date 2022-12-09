@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\salma arafa\source\repos\prob 6.6\prob 6.6\Source.cpp(7,33): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\salma arafa\source\repos\prob 6.6\prob 6.6\Source.cpp(8,34): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\salma arafa\source\repos\prob 6.6\prob 6.6\Source.cpp(9,36): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  prob 6.6.vcxproj -> C:\Users\salma arafa\source\repos\prob 6.6\Debug\prob 6.6.exe

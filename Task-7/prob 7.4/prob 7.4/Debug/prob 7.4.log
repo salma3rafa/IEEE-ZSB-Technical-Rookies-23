@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\salma arafa\source\repos\prob 7.4\Debug\prob 7.4.exe for writing
